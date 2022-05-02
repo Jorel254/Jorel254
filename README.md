@@ -1,9 +1,9 @@
 ### Hi there 👋
-🔭 I’m Santiago González
-🌱 I'm a Computer Engineer
-😄 I'm studying a master's degree in information security
-📱  Pronouns: he/him
-📫 How to reach me: You can send me a email at gonzalez.s.santiago@hotmail.com
+###🔭 I’m Santiago González
+###🌱 I'm a Computer Engineer
+###😄 I'm studying a master's degree in information security
+###📱  Pronouns: he/him
+###📫 How to reach me: You can send me a email at gonzalez.s.santiago@hotmail.com
 <!--
 **Jorel254/Jorel254** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
