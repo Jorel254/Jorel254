@@ -24,12 +24,16 @@ Here are some ideas to get you started:
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   
-  ![](https://komarev.com/ghpvc/?username=Jorel254&label=PROFILE+VIEWS)
+  ![](https://komarev.com/ghpvc/?username=Jorel254&color=green&style=for-the-badge)
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jorel254&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jorel254&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
   
- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Jorel254&theme=dark&background=000000)](https://git.io/streak-stats)
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Jorel254&show_icons=true&theme=vision-friendly-dark)
+ [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Jorel254&theme=github_dark)](https://git.io/streak-stats)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Jorel254&show_icons=true&theme=github_dark)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jorel254&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Jorel254&theme=github_dark)
+
   ![](https://github-profile-trophy.vercel.app/?username=Jorel254&title=MultiLanguage&theme=oldie&column=-1)
   ![](https://github-profile-trophy.vercel.app/?username=Jorel254&title=Commits&theme=oldie&column=-1)
   ![](https://github-profile-trophy.vercel.app/?username=Jorel254&title=Repositories&theme=oldie&column=-1)
@@ -63,9 +67,5 @@ Here are some ideas to get you started:
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" height="40"/>&nbsp;
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>&nbsp;
 </div>
-<div id="header" align="center">
-  
-![](https://komarev.com/ghpvc/?username=Jorel254&color=green&style=for-the-badge)
 
-</div>
           
