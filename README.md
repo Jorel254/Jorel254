@@ -9,7 +9,7 @@
 <br>
 -🌱 I'm a Computer Engineer
 <br>
--😄 I'm studying a master's degree in information security
+-😄 I´m a master in information security
 <br>
 -📱  Pronouns: he/him
 <br>
@@ -28,7 +28,6 @@ Here are some ideas to get you started:
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jorel254&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
   
- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Jorel254&theme=github_dark)](https://git.io/streak-stats)
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Jorel254&show_icons=true&theme=github_dark)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jorel254&theme=github_dark)
@@ -41,7 +40,6 @@ Here are some ideas to get you started:
   ![](https://github-profile-trophy.vercel.app/?username=Jorel254&title=PullRequest&theme=oldie&column=-1)
   ![](https://github-profile-trophy.vercel.app/?username=Jorel254&title=Followers&theme=oldie&column=-1)
 </div>
----
 
 ---
 
